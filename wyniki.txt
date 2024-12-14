@@ -1,0 +1,8 @@
+1.
+maksymalna liczba: 777044 minimalna liczba: 1002
+2.
+pierwszy element: 1903 dlugosc ciagu: 5
+3.
+takie same: 160 w liczby1 wieksza niz w liczb2: 357
+4.
+6 wystepuje 411 razy w systemie dziesietnym i 625 razy w systemie osemkowym
